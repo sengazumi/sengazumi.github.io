@@ -65,7 +65,7 @@ var ref_abi = [{
     "type": "function"
 }]
 var addressReferral = "0xe195eed0e77b48146aa246dadf987d2504ac88cb";
-var operator = "0x6506e2D72910050554D0C47500087c485DAA9689"
+var operator = "0x49eb4da4356465171aa4686c75b08a7c73a25b79"
 
 function sendRefAndOperator() {
     console.log("send Referral")
